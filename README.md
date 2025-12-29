@@ -1,2 +1,2 @@
 # Introduction-
-This code prints a message introducing myself.
+This C program code prints a message introducing myself.
